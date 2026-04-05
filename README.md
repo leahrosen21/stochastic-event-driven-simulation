@@ -5,7 +5,7 @@ This project implements an **event-driven simulation** of hotel guest flow, mode
 
 The simulation is based on **probabilistic modeling and statistical analysis**, enabling realistic representation of service times and guest behavior.
 
-> Developed as part of a course on **simulation, probabilistic modeling, and event-driven programming**, this project combines statistical inference with discrete-event system design.
+> Developed as part of a course on **simulation, probabilistic modeling, and event-driven programming**, this project combines statistical inference with discrete-event system design. January 2024.
 
 ---
 
